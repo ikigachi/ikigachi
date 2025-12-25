@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hola 👋 soy Ezequiel ✨</h1>
 
-<!--
-**ikigachi/ikigachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://www.linkedin.com/in/ezequiel-mentado-370487334/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Ezequiel Mentado"/>
+  </a>
+  <a href="mailto:ezequielillocorreo@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Sobre mí 😃</h2>
+
+<p align="left">
+🎓 INGENIERO EN INFORMÁTICA  
+  
+📫 Contacto: **ezequielillocorreo@gmail.com**
+</p>
+
+<br>
+
+<h2>Tecnologías conocidas 👨🏻‍💻</h2>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py&perline=12"/>
+  </a>
+</p>
+<br>
